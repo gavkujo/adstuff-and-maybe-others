@@ -1,3 +1,5 @@
+// voltage reading exercise. circuit analysis using 2 resistors
+
 int readPin = A3;
 int V2 = 0;
 int del = 500;
